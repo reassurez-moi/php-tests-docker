@@ -4,6 +4,9 @@ This Docker image helps run Continuous Integration pipelines for PHP webapps. It
 
 - PHP 7.2 and commonly used extensions
 - Node.js and NPM
+- cURL
+- git
+- mysql-client
 
 The image is built automatically and pushed to Dockerhub here:
 
