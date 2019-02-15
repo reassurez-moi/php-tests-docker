@@ -1,8 +1,9 @@
 # Docker image for PHP tests
 
-This Docker image helps run Continuous Integration pipelines for PHP webapps. It includes Node, NPM and commonly used PHP extensions.
+This Docker image helps run Continuous Integration pipelines for PHP webapps. It includes:
 
-The PHP version currently used is 7.2.
+- PHP 7.2 and commonly used extensions
+- Node.js and NPM
 
 The image is built automatically and pushed to Dockerhub here:
 
