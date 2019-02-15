@@ -7,6 +7,7 @@ This Docker image helps run Continuous Integration pipelines for PHP webapps. It
 - cURL
 - git
 - mysql-client
+- bash
 
 The image is built automatically and pushed to Dockerhub here:
 
