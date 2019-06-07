@@ -8,4 +8,4 @@ This Docker image helps run Continuous Integration pipelines for PHP webapps. It
 
 The image is built automatically and pushed to Dockerhub here:
 
-[https://hub.docker.com/r/conradkdotcom/php-tests](https://hub.docker.com/r/conradkdotcom/php-tests)
+[https://hub.docker.com/r/reassurezmoitech/php-tests](https://hub.docker.com/r/reassurezmoitech/php-tests)
