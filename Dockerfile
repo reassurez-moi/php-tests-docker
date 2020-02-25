@@ -1,4 +1,4 @@
-FROM php:7.2-cli-buster
+FROM php:7.3-cli-buster
 
 # Workaround a bug building packages that create man pages:
 # https://github.com/nextcloud/docker/issues/380#issuecomment-409593925
