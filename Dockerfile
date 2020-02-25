@@ -12,6 +12,7 @@ RUN apt-get update -y \
         libxml2-dev \
         libicu-dev \
         libpng-dev \
+        libzip-dev \
         mariadb-client \
         bash \
         jq \
